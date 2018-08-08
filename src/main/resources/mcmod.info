@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TFHorsey",
+  "name": "TFHorsey",
+  "description": "Fixes horse spawning with MobProperties.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dinglydell"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
