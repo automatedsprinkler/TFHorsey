@@ -40,7 +40,7 @@ dependencies {
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
 	compile files (
-		"lib/[1.7.10]TerraFirmaCraft-deobf-0.79.25.jar"
+		"lib/[1.7.10]TerraFirmaCraft-deobf-0.79.29.jar"
 	)
 
 }
