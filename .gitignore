@@ -32,7 +32,6 @@ proguard/
 
 #Gradle
 .gradletasknamecache
-.gradle/
 build/
 bin/
 
@@ -43,7 +42,7 @@ bin/
 target/
 lib/
 modstemp/
-gradle/
+#gradle/
 .gradle/
 
 # OS Files #
